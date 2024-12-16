@@ -137,12 +137,12 @@ button {
 .signUp {
   border: 3px solid var(--white-color);
 }
-.footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    background-color: var(--dark-background);
-    padding: 1rem 9%;
-    text-align: center;
-    width: 1800px;
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: var(--dark-background);
+  padding: 1rem;
+  text-align: center;
+  width: 100vw;
 }
